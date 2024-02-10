@@ -1,0 +1,106 @@
+[
+    { 
+        "id":"9503",
+        "title":"Analogue Clock Notion Widget",
+        "preview":"Our analogue clock Notion widget shows the time on a conventional clock face with hour and minute hands.",
+        "overview":"Our analogue clock Notion widget uses a standard clock face with hour and minute hands that display the time.\n\n Users will have a quick and simple method to check the time while working or studying thanks to this widget, which can be put to a Notion page or dashboard. In order to fit the user's tastes and the general layout of their Notion page, the clock may be resized easily.\n\n Those who like the look and feel of an analogue clock or who wish to limit their usage of digital gadgets while working or studying may find this widget to be very helpful. Our Notion widget for an analogue clock is a straightforward yet useful tool for managing time while working or studying.",
+        "features":["Displays the time using a traditional clock face with hour and minute hands.",  "Can be added to a Notion page or dashboard.",  "Provides users with a quick and easy way to check the time while working or studying in Notion.",  "Can be customized with different styles and colors to match the user's preferences and the overall design of their Notion page.",  "Particularly useful for users who prefer the visual and tactile experience of an analogue clock.",  "Can help minimize the user's use of digital devices while working or studying.",  "Simple yet effective tool for keeping track of time in Notion."]        ,
+        "faq":[
+            ["How do I add an analogue clock Notion widget to my page?", "To add an analogue clock widget to your page, click on the \"+\" icon in your page and select \"Embed\" from the options. Paste the HTML code for the widget and click \"Create\"."],
+            ["Can I customize the size of the analogue clock widget?", "Yes, you can customize the appearance of the widget by changing the width and height."],
+            ["Can I use an analogue clock widget to track different time zones?", "While analogue clock widgets typically only display the time for one time zone, you can add multiple widgets to your page and customize each one to display the time for a different time zone, allowing you to track the time in different locations around the world."]],
+        "image":"/images/widgets/Clock.webp",
+        "tags":["Clock", "Tracker", "Time"],
+        "rating":4.70,
+        "url":"https://templationary.com/widgets/analogue-clock"
+    },
+    { 
+        "id":"2523",
+        "title":"Pomodoro Notion Widget",
+        "preview":"Our Pomodoro Notion widget is a tool that helps users manage their time and break their work into smaller chunks.",
+        "overview":"Our Pomodoro Notion widget is a time management tool that helps users break their work into timed intervals. This widget is added to a Notion page or dashboard, and provides users with a timer that counts down from 25 minutes, separated by short breaks.\n\nThe widget consists of a timer that counts down from 25 minutes, with an audible alarm indicating the end of each interval. Users can customize the length of each interval and the duration of the breaks to suit their needs.",
+        "features":[
+            "Timer that counts down from 25 minutes.",
+            "Short break intervals.",
+            "Customizable length of each interval.",
+            "Alarm that sounds after each interval is done.",
+            "Customizable length of each break.",
+            "Live count-down animation."
+        ],
+        "faq":[
+            ["How can I use the Pomodoro Notion widget to improve my productivity?", "The Pomodoro widget helps break your work into timed intervals, allowing you to stay focused on your task without getting burnt out. The widget ensures that you take regular breaks, which can help reduce stress and increase productivity."],
+            ["Can I customize the length of the intervals and breaks in the Pomodoro Notion widget?", "Yes, the Pomodoro widget is fully customizable, allowing you to set the length of each interval and break to match your preferences and work style."],
+            ["Is the Pomodoro Notion widget easy to use?", "Yes, the Pomodoro widget is simple and user-friendly. It can be easily added to a Notion page or dashboard, and provides a live countdown of the timer, making it easy to stay on track and focused."]],
+        "image":"/images/widgets/Pomodoro.webp",
+        "tags":["Time", "Tracker", "Study"],
+        "rating":4.92,
+        "url":"https://templationary.com/widgets/pomodoro"
+    },
+    { 
+        "id":"1283",
+        "title":"Timer Notion Widget",
+        "preview":"Our Timer Notion Widget is a simple and useful tool for setting and tracking time intervals.",
+        "overview":"Our Timer Notion Widget is a simple tool that allows users to set and track time intervals for a variety of tasks. The Notion widget includes a countdown timer that can be set for a specific length of time, an alarm sound that signals the end of the interval, and buttons for setting the length of the intervals.\n\nOur Timer Notion Widget is useful for a wide range of tasks, from timing study or work sessions to tracking exercise or cooking times. By providing a clear visual and audible indication of time remaining, Our Timer Notion Widget can help users stay focused and productive while avoiding distractions or interruptions.",
+        "features":[
+            "Countdown timer that can be set for a specific length of time.",
+            "Alarm sound that signals the end of the interval.",
+            "Buttons for setting the length of the intervals.",
+            "Useful for a wide range of tasks, such as timing study or work sessions, tracking exercise or cooking times.",
+            "Clear visual and audible indication of time remaining.",
+            "Helps users stay focused and productive while avoiding distractions or interruptions.",
+            "Can be added to a Notion page or dashboard for easy access and use."
+        ],
+        "faq":[
+            ["Can I customize the length of the intervals in the Notion widget?", "Yes, the widget includes buttons for setting the length of the intervals, so you can customize them according to your preferences."],
+            ["Can I use the timer widget for exercise or cooking times?", "Yes, the widget is useful for a wide range of tasks, including tracking exercise or cooking times."],
+            ["Can I add the timer Notion widget to my Notion page or dashboard?", "Yes, the widget can be added to a Notion page or dashboard for easy access and use."]],
+        "image":"/images/widgets/Timer.webp",
+        "tags":["Time", "Study", "Tracker"],
+        "rating":4.29,
+        "url":"https://templationary.com/widgets/timer"
+    },
+    { 
+        "id":"2351",
+        "title":"Spotify Notion Widget",
+        "preview":"Add your favorite tunes to your Notion pages with our Spotify Widget. Simply paste a song link and enjoy seamless playback without leaving Notion.",
+        "overview":"The Spotify Embed Notion Widget is a powerful tool that allows Notion users to easily add their favorite Spotify songs or playlists directly on their Notion pages.\n\nWith this widget, users can simply paste the Spotify link of the desired song or playlist and the widget will generate an embedded player that can be played directly within the Notion page. This widget is especially useful for musicians, music lovers, and anyone who wants to share their favorite songs or playlists with others in a seamless and engaging way.",
+        "features":[
+            "Enables users to embed Spotify songs directly into their Notion pages or dashboards.",
+            "Works by simply copying and pasting a Spotify song link into the widget.",
+            "Automatically generates a playable widget with the song title and artist name.",
+            "Provides users with a seamless listening experience without having to leave the Notion app.",
+            "Can be used to create curated playlists or share individual songs with others.",
+            "Convenient tool for music lovers, creators, or those who want to add a little musical inspiration to their workspace."
+        ],
+        "faq":[
+            ["Can I embed any Spotify song using this Notion widget?", "Yes, you can embed any Spotify song into your Notion page or dashboard as long as you have the Spotify song link."],
+            ["Do I need to have a Spotify account to use this widget?", "Yes, you need to have a Spotify account to generate a Spotify song link that can be used with this Notion widget."],
+            ["Can I customize the appearance of the Spotify widget?", "Currently, there is no option to customize the appearance of the Spotify widget. It will display the song title and artist name with a player interface."]],
+        "image":"/images/widgets/Spotify.webp",
+        "tags":["Music", "Study", "Tracker"],
+        "rating":4.30,
+        "url":"https://templationary.com/widgets/spotify"
+    },
+    { 
+        "id":"8821",
+        "title":"Weather Notion Widget",
+        "preview":"Our Notion weather widget provides users with accurate and detailed weather forecasts for the current day and the next 6.",
+        "overview":"This Notion widget offers a convenient way for users to stay up-to-date on the weather conditions in their local area without having to leave the app. With the ability to view forecasts for the next 6 days as well as the current day, users can plan their activities or work schedule accordingly. The widget provides information on wind speed, temperature, and weather conditions, giving users a comprehensive understanding of what to expect from the weather.\n\nAnd with automatic location detection, users can quickly and easily get weather information without having to manually enter their location.",
+        "features":[
+            "Automatically detects user's location to provide local weather information.",
+            "Displays the weather forecast for the current day and the next 6 days.",
+            "Provides detailed information on wind speed, temperature, and weather conditions for each day.",
+            "Easy to read and understand graphical representation of the forecast.",
+            "Offers convenient access to weather information within the Notion app.",
+            "Useful tool for planning outdoor activities or travel, as well as staying prepared for changes in weather."
+        ],
+        "faq":[
+            ["How does the Notion weather widget detect my location?", "The widget uses your device's IP address to detect your location and provide you with local weather information."],
+            ["Can I customize the temperature units shown in the widget?", "Not right now, however we are working on bringing this as a feature!"],
+            ["Does the widget provide real-time weather updates?", "The widget provides a daily forecast for the current day and the next 6 days, and updates the information periodically based on the latest weather data available. However, it may not provide real-time updates on weather conditions."]],
+        "image":"/images/widgets/Weather.webp",
+        "tags":["Weather", "Tracker", "Dashboard"],
+        "rating":4.92,
+        "url":"https://templationary.com/widgets/weather"
+    }
+]
